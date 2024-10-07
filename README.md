@@ -1,2 +1,2 @@
 # whatsapp_automation
-WhatsApp Automation using pywhatkit
+WhatsApp Automation for a property agent using pywhatkit
